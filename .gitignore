@@ -16,3 +16,7 @@ __pycache__
 .history
 ddup.code-workspace
 .vscode/settings.json
+
+# ALL local only file in ALL directory
+**/*local*
+**/local_only.py
